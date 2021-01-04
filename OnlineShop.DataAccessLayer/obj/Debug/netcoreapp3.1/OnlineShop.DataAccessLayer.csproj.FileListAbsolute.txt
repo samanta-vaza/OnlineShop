@@ -1,0 +1,11 @@
+D:\Project\OnlineShop\OnlineShop\OnlineShop.DataAccessLayer\bin\Debug\netcoreapp3.1\OnlineShop.DataAccessLayer.deps.json
+D:\Project\OnlineShop\OnlineShop\OnlineShop.DataAccessLayer\bin\Debug\netcoreapp3.1\OnlineShop.DataAccessLayer.dll
+D:\Project\OnlineShop\OnlineShop\OnlineShop.DataAccessLayer\obj\Debug\netcoreapp3.1\OnlineShop.DataAccessLayer.AssemblyInfoInputs.cache
+D:\Project\OnlineShop\OnlineShop\OnlineShop.DataAccessLayer\obj\Debug\netcoreapp3.1\OnlineShop.DataAccessLayer.AssemblyInfo.cs
+D:\Project\OnlineShop\OnlineShop\OnlineShop.DataAccessLayer\bin\Debug\netcoreapp3.1\OnlineShop.DataAccessLayer.runtimeconfig.json
+D:\Project\OnlineShop\OnlineShop\OnlineShop.DataAccessLayer\bin\Debug\netcoreapp3.1\OnlineShop.DataAccessLayer.runtimeconfig.dev.json
+D:\Project\OnlineShop\OnlineShop\OnlineShop.DataAccessLayer\bin\Debug\netcoreapp3.1\OnlineShop.DataAccessLayer.pdb
+D:\Project\OnlineShop\OnlineShop\OnlineShop.DataAccessLayer\obj\Debug\netcoreapp3.1\OnlineShop.DataAccessLayer.csproj.CoreCompileInputs.cache
+D:\Project\OnlineShop\OnlineShop\OnlineShop.DataAccessLayer\obj\Debug\netcoreapp3.1\OnlineShop.DataAccessLayer.dll
+D:\Project\OnlineShop\OnlineShop\OnlineShop.DataAccessLayer\obj\Debug\netcoreapp3.1\OnlineShop.DataAccessLayer.pdb
+D:\Project\OnlineShop\OnlineShop\OnlineShop.DataAccessLayer\obj\Debug\netcoreapp3.1\OnlineShop.DataAccessLayer.genruntimeconfig.cache

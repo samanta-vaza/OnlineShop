@@ -1,0 +1,15 @@
+D:\Project\OnlineShop\OnlineShop\OnlineShop.Core\bin\Debug\netcoreapp3.1\OnlineShop.Core.deps.json
+D:\Project\OnlineShop\OnlineShop\OnlineShop.Core\bin\Debug\netcoreapp3.1\OnlineShop.Core.dll
+D:\Project\OnlineShop\OnlineShop\OnlineShop.Core\obj\Debug\netcoreapp3.1\OnlineShop.Core.csprojAssemblyReference.cache
+D:\Project\OnlineShop\OnlineShop\OnlineShop.Core\obj\Debug\netcoreapp3.1\OnlineShop.Core.AssemblyInfoInputs.cache
+D:\Project\OnlineShop\OnlineShop\OnlineShop.Core\obj\Debug\netcoreapp3.1\OnlineShop.Core.AssemblyInfo.cs
+D:\Project\OnlineShop\OnlineShop\OnlineShop.Core\bin\Debug\netcoreapp3.1\OnlineShop.Core.runtimeconfig.json
+D:\Project\OnlineShop\OnlineShop\OnlineShop.Core\bin\Debug\netcoreapp3.1\OnlineShop.Core.runtimeconfig.dev.json
+D:\Project\OnlineShop\OnlineShop\OnlineShop.Core\bin\Debug\netcoreapp3.1\OnlineShop.Core.pdb
+D:\Project\OnlineShop\OnlineShop\OnlineShop.Core\obj\Debug\netcoreapp3.1\OnlineShop.Core.dll
+D:\Project\OnlineShop\OnlineShop\OnlineShop.Core\obj\Debug\netcoreapp3.1\OnlineShop.Core.pdb
+D:\Project\OnlineShop\OnlineShop\OnlineShop.Core\obj\Debug\netcoreapp3.1\OnlineShop.Core.genruntimeconfig.cache
+D:\Project\OnlineShop\OnlineShop\OnlineShop.Core\bin\Debug\netcoreapp3.1\OnlineShop.DataAccessLayer.dll
+D:\Project\OnlineShop\OnlineShop\OnlineShop.Core\bin\Debug\netcoreapp3.1\OnlineShop.DataAccessLayer.pdb
+D:\Project\OnlineShop\OnlineShop\OnlineShop.Core\obj\Debug\netcoreapp3.1\OnlineShop.Core.csproj.CopyComplete
+D:\Project\OnlineShop\OnlineShop\OnlineShop.Core\obj\Debug\netcoreapp3.1\OnlineShop.Core.csproj.CoreCompileInputs.cache
